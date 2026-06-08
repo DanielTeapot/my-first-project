@@ -17,11 +17,12 @@ FOR each of the 7 grades
     END WHILE
 
     Save the grade in the list
+    
 END FOR LOOP
 
 Display all grades entered
 
-Display the menu:
+Display the menu
 
         0. Exit
         1. Show highest grade
@@ -55,7 +56,9 @@ Display the menu:
         Display all grades
 
     ELSE IF the user chooses 0
-        END PROGRAM
+        End the program
 
     ELSE
         Display "Not a valid option"
+
+END PROGRAM
