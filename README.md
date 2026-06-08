@@ -24,13 +24,13 @@ Display all grades entered
 
 Display the menu
 
-        0. Exit
-        1. Show highest grade
-        2. Show lowest grade
-        3. Show average grade
-        4. Show most common grade
-        5. Sort grades from lowest to highest
-        6. Display all grades
+    0. Exit
+    1. Show highest grade
+    2. Show lowest grade
+    3. Show average grade
+    4. Show most common grade
+    5. Sort grades from lowest to highest
+    6. Display all grades
 
  Ask the user to choose an option
 
