@@ -1,7 +1,7 @@
 # my-first-project
 his is my first project on GitHub.
 
-##Pseudo code
+## Pseudo code
 ﻿START PROGRAM
 
 Create a list that can store 7 student grades
